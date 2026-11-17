@@ -1,6 +1,6 @@
 <img src="icon.png" width="96" alt="">
 
-# AI 사용량 전광판 (UsageDesk)
+# AI 사용량 얼마나 남았나요 (UsageDesk)
 
 Codex · Claude · Gemini의 남은 사용량(5시간 / 주간)을 PC의 트레이 아이콘과 휴대폰 화면에 보여주는 Windows 프로그램입니다.
 
